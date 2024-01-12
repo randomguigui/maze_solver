@@ -14,7 +14,7 @@ class Maze:
                     start = (n, m)
                     return start
 
-    def aside(self, x, y):
+    def aside(self, x, y): # cases aside (top, right, down and left)
         aside = []
 
         if x != self.width - 1:
