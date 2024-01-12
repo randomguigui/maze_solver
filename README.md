@@ -1,9 +1,10 @@
 <h1>This is a maze solver.</h1>
 
-`Maze(maze)`
-<p>the `maze` argument must be a list of listof same length each where 0 are empty spaces, 1 are walls, 2 is the start and 3 is the end.</p>
+`Maze(maze)` to create a maze
 
-the square on the top left corner is `(0, 0)` 
+The `maze` argument must be a list of list of same length each where 0 are empty spaces, 1 are walls, 2 is the start and 3 is the end.
+
+The square on the top left corner is `(0, 0)` 
 
 There is an example of how you can use it below.
 
