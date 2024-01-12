@@ -1,7 +1,7 @@
 <h1>This is a maze solver.</h1>
 
 `Maze(maze)`
-the `maze` argument must be a list of listof same length each where 0 are empty spaces, 1 are walls, 2 is the start and 3 is the end.
+<p>the `maze` argument must be a list of listof same length each where 0 are empty spaces, 1 are walls, 2 is the start and 3 is the end.</p>
 
 the square on the top left corner is `(0, 0)` 
 
